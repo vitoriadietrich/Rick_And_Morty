@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rick and Morty - API</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero-section">
+        <div class="hero-container">
+            <div class="hero-content">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Rick_and_Morty.svg" alt="Rick and Morty" class="main-logo">
+                <h1 class="hero-title">Todos personagens em<br>um só <span class="highlight-text">lugar.</span></h1>
+                <p class="hero-description">
+                    Esta documentação ajudará você a se familiarizar com os recursos da API de Rick e Morty e mostrará como fazer diferentes consultas para que você possa aproveitá-la ao máximo
+                </p>
+                <a href="https://rickandmortyapi.com" target="_blank" class="btn-doc">Link documentação</a>
+                <div class="easter-egg">Ai sim, Porr#@%&*</div>
+            </div>
+            <div class="hero-graphic">
+                <img src="./imagem/rick.png" alt="Rick Graphic">
+            </div>
+        </div>
+    </header>
+
+    <section class="catalog-section">
+        <div class="catalog-container">
+            <h2 class="section-title">Personagens</h2>
+            
+            <div class="characters-grid" id="characters-grid"></div>
+
+            <div class="pagination-container">
+                <button class="btn-load-more" id="load-more-btn">carregar mais</button>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
