@@ -1,8 +1,8 @@
-# 🚀 Rick and Morty API
+# Rick and Morty API
 
 Projeto desenvolvido com HTML, CSS e JavaScript consumindo a API de Rick and Morty para exibir informações dos personagens da série de forma dinâmica e interativa.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * Buscar personagens pelo nome
 * Exibir imagem dos personagens
@@ -10,14 +10,14 @@ Projeto desenvolvido com HTML, CSS e JavaScript consumindo a API de Rick and Mor
 * Consumo de API em tempo real
 * Interface responsiva e intuitiva
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * HTML5
 * CSS3
 * JavaScript
 * Rick and Morty API
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 /
@@ -27,11 +27,11 @@ Projeto desenvolvido com HTML, CSS e JavaScript consumindo a API de Rick and Mor
 └── README.md
 ```
 
-## 🌐 API Utilizada
+## API Utilizada
 
 * https://rickandmortyapi.com/
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Clone o repositório:
 
@@ -47,7 +47,7 @@ cd rick-and-morty-api
 
 3. Abra o arquivo `index.html` em seu navegador.
 
-## 📚 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
@@ -58,10 +58,10 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 * Renderização dinâmica de componentes
 * Organização de código JavaScript
 
-## 🎯 Objetivo
+## Objetivo
 
 O objetivo deste projeto é praticar o consumo de APIs e a exibição dinâmica de dados em aplicações web, utilizando informações dos personagens do universo Rick and Morty.
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Vitória Dietrich**.
